@@ -55,7 +55,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título en blanco con estilo
-st.markdown("<h1 style='color: white; text-align: center;'>📷 Reconocimiento de Imágenes</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: white; text-align: center;'>📷 Reconocimiento de Imágenes v1.0</h1>", unsafe_allow_html=True)
 
 # Versión de Python
 st.write("Versión de Python:", platform.python_version())
