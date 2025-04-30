@@ -6,7 +6,7 @@ from keras.models import load_model
 import platform
 
 # Configuración de la página
-st.set_page_config(page_title='Reconocimiento de Imágenes', layout="wide", page_icon="📷")
+st.set_page_config(page_title='Reconocimiento de Imágenes v1.0', layout="wide", page_icon="📷")
 
 # CSS personalizado - Tema Moderno Mejorado
 st.markdown("""
